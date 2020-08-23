@@ -98,6 +98,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+	<finalName>chess</finalName>
 	</build>
 
 </project>
