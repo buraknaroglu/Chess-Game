@@ -1,0 +1,8 @@
+com/chess/game/dto/QuestionOneDTO.class
+com/chess/game/constants/GlobalConstants.class
+com/chess/game/config/swagger/SwaggerConfiguration.class
+com/chess/game/ChessGameApplication.class
+com/chess/game/dto/QuestionTwoDTO.class
+com/chess/game/controller/ChessController.class
+com/chess/game/config/mvc/WebConfigurer.class
+com/chess/game/model/Coordinate.class
