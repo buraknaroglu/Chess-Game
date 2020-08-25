@@ -1,6 +1,6 @@
 # Chess Game Api
 
-Projemiz, santranç oyunundaki vezirin ulaşabileceği noktaların hesabını yapar. 
+Projemiz, santranç oyunundaki vezirin ulaşabileceği noktaların hesabını yapar. Projeyi build ettikten sonra tarayiciniz ile 'http://localhost:8080/swagger-ui.html' adresine gidip api'ye ait tüm servisleri görebilir ve bu servislere request atıp, response'larini alabilirsiniz.
 
 # Projede Kullanılan Teknolojiler 
 
